@@ -1,0 +1,250 @@
+body{
+    background-color: white;
+    margin:0px;
+    padding:0px;
+    font-family: Verdana;
+    
+    
+}
+.logo img{
+
+    float:left;
+    width:300px;
+    height:auto;
+    margin-left:15px;
+    padding-left:15px;
+    
+}
+
+.logo{
+    display: inline;
+    font-family: verdana;
+    position:relative   ;
+    list-style-type: none;
+    margin:0px;
+    
+}
+
+.backgroundbanner{
+background-image:url(../images/backgroundbanner.jpg);
+height:500px;
+width:1400px;
+background-size:cover;
+background-position:center;
+}
+
+.navbar {
+    padding-right:15px;
+    margin-right:15px;
+    float:right;
+    list-style-type: none;
+    color:black;
+}
+.follow {
+    background-color: blue;
+    color:white;
+  }
+.navbar li {
+    display:inline-block;
+    margin:10px;
+ 
+}
+.navbar li:hover{
+    background-color: white;
+    color:white;
+    cursor:pointer;
+}
+
+
+.bannerpara{
+
+    position:absolute;
+    top:30%;
+    left:23%;
+}
+
+.bannerpara p{
+
+    color:white;
+    font-size:40px;
+    font-weight:bold;
+    margin:0px;
+
+}
+.About_us{
+    background-color: azure;
+    color:black;
+    font-family: verdana;
+    font-size:20px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.About_us p{
+    color:black;
+    font-family: verdana;
+    font-size:20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.Products{
+    background-color: white;
+    color:black;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.product li{
+    color:black;
+    display: inline;
+    list-style-type: disc;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+.product{
+    color:black;
+    display: inline;
+    width:500px;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.image_prod{
+   
+    float:right;
+    
+ } 
+ 
+ .image_prod li{
+     display:inline-block;
+     width:300px;
+     height:auto;
+     
+ }
+
+ .image_prod li:hover{
+     background-color: green;
+     cursor:pointer;
+ }
+
+ 
+
+ 
+.image_prod{
+   
+   float:right;
+   
+} 
+
+.image_prod li{
+    display:inline-block;
+    width:300;
+    height:auto;
+    
+}
+h3{
+  font-family: sans-serif;
+  text-align: center;
+  color: indianred;
+}
+
+
+/*  
+.logo img{
+
+    float:left;
+    width:300px;
+    height:auto;
+    
+}
+
+.logo{
+    display: inline;
+    font-family: verdana;
+    position:relative   ;
+    list-style-type: none;
+    margin:0px;
+    
+}
+
+.backgroundbanner{
+background-image:url(../images/backgroundbanner.jpg);
+height:500px;
+background-size:cover;
+background-position:center;
+}
+
+.navbar {
+
+    float:right;
+    list-style-type: none;
+    color:white;
+}
+
+.navbar li {
+
+    display:inline-block;
+    margin:10px;
+ 
+}
+.navbar li:hover{
+    background-color: green;
+    color:black;
+    cursor:pointer;
+}
+*/
+
+.footer{
+    background-color: lightblue;
+    color:black;
+    list-style-type: none;
+    margin-right:10px;
+    padding-right:20px;
+    display:inline;
+    font-size:15px;
+    font-weight: bold;
+    line-height: 25px;
+    width:1400px;
+
+    text-transform: capitalize;
+    text-align: center;
+    float:left;
+
+}
+
+.footer img{
+    float:left;
+    width:300px;
+    height:auto;
+    padding-left:20px;
+    margin-left:20px;
+
+}
+
+.navbar-footer li {
+
+    display:inline-block;
+    margin:10px;
+    padding:15px;
+ 
+}
+.navbar-footer li:hover{
+    background-color: white;
+    color:white;
+    cursor:pointer;
+}
+
+.navbar-footer {
+margin-right:20px;
+padding:10px;
+    float:right;
+    list-style-type: none;
+    color:white;
+}
